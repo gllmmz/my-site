@@ -182,6 +182,7 @@ h1{
 	padding: 103px 0;
 }
 .statistics__item{
+	gap: 20px;
 	display: flex;
 	width: 141px;
 	justify-content: space-between;
